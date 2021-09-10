@@ -1,0 +1,13 @@
+ID	PW	name	char	rank
+test1	test1	test1	Nig	hard
+test2	test2	test2	Nig	none
+test3	test3	test3	Nig	simple
+test4	test4	test4	Nig	normal
+123	123			
+456	456	456	Grub	none
+fucidgo	fddivodog	re8udif	Grub	hard
+luby	luanne789789	what	Elvar	hard
+test	test	h	Elvar	simple
+test0203	test
+test0203			
+test123456	123456			
